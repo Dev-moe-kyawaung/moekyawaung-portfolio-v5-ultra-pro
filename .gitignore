@@ -1,0 +1,43 @@
+# Dependencies
+node_modules/
+
+# Next.js
+.out/
+.next/
+out/
+
+# Build
+build/
+dist/
+
+# Flutter
+build/
+.pub/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Firebase
+.firebase/
+.firebaserc
+firebase-debug.log
+firestore-debug.log
+
+# Articles
+*.md
